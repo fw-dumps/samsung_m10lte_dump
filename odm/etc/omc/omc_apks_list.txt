@@ -1,0 +1,6 @@
+/odm/app/mygalaxy_Stub-derived-2.9.9.1/mygalaxy_Stub-derived-2.9.9.1.apk
+/odm/app/MyGalaxyWidget/MyGalaxyWidget.apk
+/odm/app/MyGalaxyWidget_NEBANGS/MyGalaxyWidget_NEBANGS.apk
+/odm/app/PreinstallProvider/PreinstallProvider.apk
+/odm/app/SamsungMax/SamsungMax.apk
+/odm/priv-app/appcloud_oobe/appcloud_oobe.apk

@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-M105F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>ODM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>M105FODM</CSCName>
+        <CSCVersion>4CTL2</CSCVersion>
+        <NbCustomer>4</NbCustomer>
+        <CustomerData src="/Customer/INS/customer.xml" />
+        <CustomerData src="/Customer/BKD/customer.xml" />
+        <CustomerData src="/Customer/SLI/customer.xml" />
+        <CustomerData src="/Customer/NPB/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>BKD</CustomerCode>
+            <Version>SAOMC_SM-M105F_ODM_BKD_QQ_0004</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>INS</CustomerCode>
+            <Version>SAOMC_SM-M105F_ODM_INS_QQ_0015</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>NPB</CustomerCode>
+            <Version>SAOMC_SM-M105F_ODM_NPB_QQ_0005</Version>
+            <CustomerEdition>ED0003</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SLI</CustomerCode>
+            <Version>SAOMC_SM-M105F_ODM_SLI_QQ_0010</Version>
+            <CustomerEdition>ED0008</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.samsung.android.email.provider" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.sec.android.app.voicenote" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
